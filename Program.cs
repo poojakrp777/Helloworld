@@ -51,6 +51,7 @@ namespace Helloworld
             Console.WriteLine("Enter any number to find reverse");
             int number = Convert.ToInt32(Console.ReadLine());
             ReverseNumber.Reverse(number);
+            PalindromNumber.FindPolyndrome();
             Console.ReadLine();
         }
     }

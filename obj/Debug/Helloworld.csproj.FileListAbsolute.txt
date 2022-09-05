@@ -1,0 +1,8 @@
+D:\TFP_FR_572\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+D:\TFP_FR_572\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+D:\TFP_FR_572\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+D:\TFP_FR_572\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.AssemblyReference.cache
+D:\TFP_FR_572\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.SuggestedBindingRedirects.cache
+D:\TFP_FR_572\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+D:\TFP_FR_572\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+D:\TFP_FR_572\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
