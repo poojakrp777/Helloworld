@@ -48,6 +48,9 @@ namespace Helloworld
             Console.WriteLine("Please enter numb to generate n series");
             int n = Convert.ToInt32(Console.ReadLine());
             fibonaccieseries.FindSeries(n);
+            Console.WriteLine("Enter any number to find reverse");
+            int number = Convert.ToInt32(Console.ReadLine());
+            ReverseNumber.Reverse(number);
             Console.ReadLine();
         }
     }
