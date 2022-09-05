@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="csharpBasicprogram\fibonaccieseries.cs" />
     <Compile Include="objectandclasses\Car.cs" />
     <Compile Include="objectandclasses\Dog.cs" />
     <Compile Include="Program.cs" />

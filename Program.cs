@@ -1,4 +1,5 @@
-﻿using Helloworld.objectandclasses;
+﻿using Helloworld.csharpBasicprogram;
+using Helloworld.objectandclasses;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -43,6 +44,10 @@ namespace Helloworld
             //Dog dog3 = new Dog();
             Console.WriteLine("Making changes in remote master branch");
             Console.WriteLine("Trying to create conflict in remote");
+            Console.WriteLine("\nFibonoccie series");
+            Console.WriteLine("Please enter numb to generate n series");
+            int n = Convert.ToInt32(Console.ReadLine());
+            fibonaccieseries.FindSeries(n);
             Console.ReadLine();
         }
     }

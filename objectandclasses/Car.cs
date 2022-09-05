@@ -11,12 +11,19 @@ namespace Helloworld.objectandclasses
         public string color;
         public double price;
         public string model;
-
+        //static variable
+        public static string name;
         //methods
         //drive,start,stop
         public void Display()
         {
+            //local varible
+            string location = "Delhi";
+            string location1 = "Mumbai";
+            string location2 = "Delhi";
+
             Console.WriteLine(color + " " + price + " " + model);
+            Console.WriteLine("location:" + location);
         }
     }
 }
