@@ -42,6 +42,7 @@ namespace Helloworld
             dog2.DogDetails();
             //Dog dog3 = new Dog();
             Console.WriteLine("Making changes in remote master branch");
+            Console.WriteLine("Trying to create conflict in remote");
             Console.ReadLine();
         }
     }
