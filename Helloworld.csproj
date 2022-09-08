@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="csharpBasicprogram\Factorial.cs" />
     <Compile Include="csharpBasicprogram\fibonaccieseries.cs" />
+    <Compile Include="csharpBasicprogram\OddOrEven.cs" />
     <Compile Include="csharpBasicprogram\PalindromNumber.cs" />
     <Compile Include="csharpBasicprogram\PrimeNumber.cs" />
     <Compile Include="csharpBasicprogram\ReverseNumber.cs" />
