@@ -55,6 +55,7 @@ namespace Helloworld
             Console.WriteLine("Enter any number to find sum of its digits");
             int numb = Convert.ToInt32(Console.ReadLine());
             SumOfDigits.FindSumOfDigits(numb);
+            ReverseWord.ReadInput();
             Console.ReadLine();
         }
     }
