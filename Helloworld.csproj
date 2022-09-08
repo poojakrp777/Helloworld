@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="csharpBasicprogram\fibonaccieseries.cs" />
     <Compile Include="csharpBasicprogram\PalindromNumber.cs" />
+    <Compile Include="csharpBasicprogram\PrimeNumber.cs" />
     <Compile Include="csharpBasicprogram\ReverseNumber.cs" />
     <Compile Include="csharpBasicprogram\ReverseWord.cs" />
     <Compile Include="csharpBasicprogram\SumOfDigits.cs" />
