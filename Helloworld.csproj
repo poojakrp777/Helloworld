@@ -46,6 +46,7 @@
     <Compile Include="csharpBasicprogram\fibonaccieseries.cs" />
     <Compile Include="csharpBasicprogram\PalindromNumber.cs" />
     <Compile Include="csharpBasicprogram\ReverseNumber.cs" />
+    <Compile Include="csharpBasicprogram\SumOfDigits.cs" />
     <Compile Include="objectandclasses\Car.cs" />
     <Compile Include="objectandclasses\Dog.cs" />
     <Compile Include="Program.cs" />

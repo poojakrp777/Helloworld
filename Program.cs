@@ -52,6 +52,9 @@ namespace Helloworld
             int number = Convert.ToInt32(Console.ReadLine());
             ReverseNumber.Reverse(number);
             PalindromNumber.FindPolyndrome();
+            Console.WriteLine("Enter any number to find sum of its digits");
+            int numb = Convert.ToInt32(Console.ReadLine());
+            SumOfDigits.FindSumOfDigits(numb);
             Console.ReadLine();
         }
     }
