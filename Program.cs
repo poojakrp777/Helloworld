@@ -13,7 +13,7 @@ namespace Helloworld
         static void Main(string[] args)
         {
             Console.WriteLine("Please choose any one program from below options");
-            Console.WriteLine("1:ObjectAndClass concept\n2:Fibonoccie Series\n3.Reverse Number\n4.Palindrome\n5.SumOfDigits\n6.ReverseWord\n7.PrimeNumber\n8.Factorial\n9.");
+            Console.WriteLine("1:ObjectAndClass concept\n2:Fibonoccie Series\n3.Reverse Number\n4.Palindrome\n5.SumOfDigits\n6.ReverseWord\n7.PrimeNumber\n8.Factorial\n9.Swapping Number");
             int choose = Convert.ToInt32(Console.ReadLine());
             switch (choose)
             {
@@ -64,6 +64,9 @@ namespace Helloworld
                     break;
                 case 8:
                     Factorial.FindFactorial();
+                    break;
+                case 9:
+                    SwapNumber.SwappingNumber();
                     break;
 
                 default:
