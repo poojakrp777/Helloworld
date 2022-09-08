@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="csharpBasicprogram\Factorial.cs" />
     <Compile Include="csharpBasicprogram\fibonaccieseries.cs" />
     <Compile Include="csharpBasicprogram\PalindromNumber.cs" />
     <Compile Include="csharpBasicprogram\PrimeNumber.cs" />
